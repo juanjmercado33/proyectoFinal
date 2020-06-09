@@ -8,6 +8,22 @@ body {
   font-family: sans-serif;
 }
 
+.header {
+  overflow: hidden;
+  background: rgb(9, 61, 70);
+  /*background-color: #f1f1f1;
+  padding: 5px 10px;*/
+  height: 120px;
+}
+
+.header-left { 
+  float: left;
+}
+
+.header-right {
+  float: right;
+}
+/* =======================================Termina el estilo del encabezado =============================================== */
 
 
 
